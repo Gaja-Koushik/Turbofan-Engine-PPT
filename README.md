@@ -4,7 +4,7 @@ prepared by **GAJA Koushik** as part of my learning journey in aerospace and mec
  📌 Contents
 - `Jet engines (TURBO-JET) by GAJA Koushik.pptx` – Full presentation with diagrams and explanations.
 
-## 🔹 Key Topics Covered
+# Key Topics Covered
 - Introduction to turbofan engines  
 - Why turbofans are preferred in fighter jets (fuel efficiency, maneuverability, thrust boost)  
 - Materials used in engine construction (titanium alloys, nickel-based superalloys, composites)  
@@ -15,7 +15,7 @@ prepared by **GAJA Koushik** as part of my learning journey in aerospace and mec
 - Role of the afterburner in combat performance  
 - Real examples: Tejas Mk1/Mk1A, MiG-23, GE F404-IN20 turbofan  
 
-## 🎯 Purpose
+# 🎯 Purpose
 This presentation was created to strengthen my understanding of **air-breathing jet engines**  
 with a focus on turbofan engines used in modern fighter aircraft.  
 
@@ -24,6 +24,6 @@ I am building this GitHub repository to:
 - Share my work publicly.  
 - Use it as part of my professional portfolio for internships and career opportunities in aerospace (e.g., DRDO, HAL, ISRO, or private aerospace firms).  
 
-## 👤 Author
+## 👨🏻‍💼 Author
 **GAJA KOUSHIK**  
 Mechanical Engineering Student | Aspiring Aerospace Engineer  
