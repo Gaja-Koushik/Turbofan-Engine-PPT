@@ -1,5 +1,6 @@
 This repository contains my PowerPoint presentation on **Turbofan Engines**,  
 prepared by **GAJA Koushik** as part of my learning journey in aerospace and mechanical engineering.
+[Download ppt](https://github.com/Gaja-Koushik/Turbofan-Engine-PPT/raw/main/Jet%20engines%20(TURBO-JET)%20by%20GAJA%20Koushik.pptx)
 
  📌 Contents
 - `Jet engines (TURBO-JET) by GAJA Koushik.pptx` – Full presentation with diagrams and explanations.
